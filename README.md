@@ -21,6 +21,7 @@ function main(presskey)
 
 </script>
   ----------------
+   RESULT :
 <table border="2" cellspacing= 1 cellpadoing=1 >
 
 <tr> 
@@ -94,7 +95,7 @@ function main(presskey)
 </table> 
 </body> 
 </html>
-RESULT :
+
 ------------------------------------------------------------------
 
 ---------------oooooooo-------------------------------------------
